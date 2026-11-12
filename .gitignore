@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Dependencies and generated files
+node_modules/
+dist/
+build/
+coverage/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Local project guide
+/guia.txt
+
+# Logs
+*.log
