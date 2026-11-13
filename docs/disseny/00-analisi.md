@@ -14,20 +14,22 @@ Fricción en la acción principal y acceso diferido: Prioriza el marketing y el 
 
 ---
 
-¿Cómo quieres que sea la página?
+Pregunta 1: ¿Cómo quieres que sea la página?
 Fina: Eh... ¿Que se pueda entrar no?
 Arnau: Funcional.
 Miguel: Muy guapa.
 
----
+Pregunta 2: ¿Prefieres que la app esté en Móvil o PC?
+Fina: En el móvil, así puedo mirarla cuando estoy fuera.
+Arnau: En los dos, pero sobre todo en PC para consultar la información con más comodidad.
+Miguel: En el móvil, que sea cómoda y se vea bien.
 
-Preguntas de contexto y respuestas inventadas:
+Pregunta 3: ¿Quieres que la app te pueda enviar notificaciones?
+Fina: Sí, para acordarme de las clases, pero que no me envíe demasiadas.
+Arnau: Sí, solo para avisos importantes, como cambios de horario o reservas.
+Miguel: Sí, y que pueda elegir qué notificaciones recibir.
 
-- ¿Cómo reservas (o reservarías) una clase o una pista?
-  "Desde el móvil, mirando el horario y reservando lo que me interesa. Si no hay hueco, miro otra hora."
-
-- ¿Qué te hace perder tiempo o te empipa cuando lo haces?
-  "Que haya que entrar en varias pantallas y que la disponibilidad no esté clara. También me jode tener que llamar o escribir para confirmar."
-
-- ¿Con qué dispositivo y en qué momento del día lo haces?
-  "Sobre todo desde el móvil, por la tarde o al final del día. A veces también por la mañana antes de ir al gimnasio."
+Pregunta 4: ¿Es importante para ti que la app sea personalizable?
+Fina: Un poco, estaría bien poder cambiar algunas cosas sencillas.
+Arnau: No demasiado; prefiero que sea clara y fácil de usar.
+Miguel: Sí, me gustaría poder cambiar los colores y ponerla a mi gusto.
